@@ -10,7 +10,9 @@ This C++ program calculates the minimum number of Euro coins needed to make up a
 ## 🚀 How It Works  
 1. **Input**: The user enters the amount of change (in cents) that is less than one Euro (100 cents).  
 2. **Calculation**: The program calculates how many of each coin (50c, 20c, 10c, 5c, 2c, 1c) are needed to make up the change.  
-3. **Output**: The program displays the number of each coin required and the total number of coins.  
+3. **Output**: The program displays the number of each coin required and the total number of coins.
+
+![image_alt](https://github.com/vanderleijunior9/lab04-Eurocoins/blob/main/Picture1.png)
 
 ---
 
